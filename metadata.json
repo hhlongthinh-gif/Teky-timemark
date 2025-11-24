@@ -1,0 +1,9 @@
+{
+  "name": "Teky Timemark",
+  "description": "Ứng dụng camera thông minh tự động gắn thẻ địa lý, thời gian vào ảnh và hỗ trợ phân tích nội dung bằng AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
